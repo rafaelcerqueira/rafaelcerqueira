@@ -1,4 +1,4 @@
-# Hello, I'm Rafael! 
+# Hello, I'm Rafael! 👨🏾‍💻
 
 ### You're welcome!
 
