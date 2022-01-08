@@ -1,4 +1,4 @@
-# Hello, I'm Rafael! 👨🏾‍💻
+# Hello, I'm Rafael! :wave:
 
 ### You're welcome!
 
