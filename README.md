@@ -28,12 +28,6 @@ Back-end:
 </div>
 
 
-#### Stats:
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcerqueira&show_icons=true&theme=aura)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcerqueira&layout=compact)](https://github.com/rafaelcerqueira/github-readme-stats)
-
 #### Social:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafaelcerqueiraf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafaelcerqueiraf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rafacerqueiraf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='50'>](https://dev.to/rafaelcerqueira)  
