@@ -2,7 +2,7 @@
 
 ### You're welcome!
 
-I'm a Web Developer Front-End & Back-End and I'm still improving my knowledge and building my experiences. I'm also a student at the Federal University of Bahia in the Interdisciplinary Science and Technology course. Don't forget to check out the technologies I use the most below. If you want to know more about me, just contact me.
+I am a Front-End & Back-End Web Developer who is continuously enhancing my skills and gaining valuable experience. Currently, I am pursuing my studies at the Federal University of Bahia in the Interdisciplinary Science and Technology program. Please take a moment to explore the technologies I frequently work with, listed below. If you would like to learn more about me, feel free to reach out and get in touch.
 
 #### Skills (in progress* | I'm currently working):
 
