@@ -8,7 +8,7 @@ I am a Front-End & Back-End Web Developer who is continuously enhancing my skill
 
 Front-end:
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular)](https://skillicons.dev)
+  [!(https://skillicons.dev/icons?i=html,css,js,react,angular)](https://skillicons.dev)
 </div>
 
 
