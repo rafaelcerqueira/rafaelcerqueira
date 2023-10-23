@@ -11,10 +11,8 @@ Front-end:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,vue)](https://skillicons.dev)
 
 Back-end:
-<div>
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,nodejs,spring,express,mongodb,mysql,postgres)](https://skillicons.dev)
-</div>
 
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,nodejs,spring,express,mongodb,mysql,postgres)](https://skillicons.dev)
 
 #### Social:
 
