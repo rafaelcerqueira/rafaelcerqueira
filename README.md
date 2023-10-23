@@ -12,7 +12,7 @@ Front-end:
 
 Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,nodejs,spring,express,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,pjava,spring,express,mongodb,py,django,flask,mysql,postgres)](https://skillicons.dev)
 
 #### Social:
 
