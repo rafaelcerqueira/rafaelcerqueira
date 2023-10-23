@@ -8,11 +8,11 @@ I am a Front-End & Back-End Web Developer who is continuously enhancing my skill
 
 Front-end:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,vue)]
 
 Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)]
 
 #### Social:
 
