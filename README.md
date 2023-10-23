@@ -20,7 +20,8 @@ Additional technologies:
 
 #### Social:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelcerqueiraf/) [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaelcerqueira)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelcerqueiraf/){:target="_blank"}
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaelcerqueira){:target="_blank"}
 
 <!--
 **rafaelcerqueira/rafaelcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
