@@ -8,15 +8,15 @@ I am a Front-End & Back-End Web Developer who is continuously enhancing my skill
 
 Front-end:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,vue)](https://skillicons.dev){:target="_blank"}
 
 Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)](https://skillicons.dev){:target="_blank"}
 
 #### Social:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelcerqueiraf/) [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaelcerqueira)  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelcerqueiraf/){:target="_blank"} [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaelcerqueira){:target="_blank"}  
 
 <!--
 **rafaelcerqueira/rafaelcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
