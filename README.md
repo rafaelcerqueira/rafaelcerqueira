@@ -12,7 +12,11 @@ Front-end:
 
 Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)](https://skillicons.dev )
+
+Additional technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,androidstudio,c,arduino,raspberrypi,)](https://skillicons.dev)
 
 #### Social:
 
