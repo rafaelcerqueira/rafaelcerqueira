@@ -8,15 +8,15 @@ I am a Front-End & Back-End Web Developer who is continuously enhancing my skill
 
 Front-end:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,vue)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,vue)](https://skillicons.dev)
 
 Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)]
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,spring,mongodb,py,django,flask,mysql,postgres)](https://skillicons.dev)
 
 #### Social:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafaelcerqueiraf/) <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rafacerqueiraf) --> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='50'>](https://dev.to/rafaelcerqueira)  
+[[My Skills](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/rafaelcerqueiraf/) [My Skills](https://skillicons.dev/icons?i=devto)(https://dev.to/rafaelcerqueira)  
 
 <!--
 **rafaelcerqueira/rafaelcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
