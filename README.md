@@ -16,7 +16,7 @@ Back-end:
 
 #### Social:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]https://www.linkedin.com/in/rafaelcerqueiraf/) [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaelcerqueira)  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelcerqueiraf/) [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaelcerqueira)  
 
 <!--
 **rafaelcerqueira/rafaelcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
