@@ -16,7 +16,7 @@ Back-end:
 
 Additional technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,androidstudio,c,arduino,raspberrypi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,androidstudio)](https://skillicons.dev)
 
 #### Social:
 
@@ -25,6 +25,7 @@ Additional technologies:
 
 <!--
 **rafaelcerqueira/rafaelcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=cpp,androidstudio,c,arduino,raspberrypi,)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
